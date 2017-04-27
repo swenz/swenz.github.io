@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome
 
 [Run boon on rooted or uncertified device](boon)
