@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Run boon on rooted or uncertified device
 
-You can use the [editor on GitHub](https://github.com/swenz/swenz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Tis tutorial describes how you can run the boon Android App on a rooted or a device which is not certified by MasterCard. We use reverse engeneering to disable certain checks within the boon App. The provided tutorial and script only works on Windows.
+
+1. Install Java on your PC.
+2. Download the automation (script)[boon.bat].
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
