@@ -1,6 +1,6 @@
 ## Run boon on rooted or uncertified device
 
-Tis tutorial describes how you can run the boon Android App on a rooted or a device which is not certified by MasterCard. We use reverse engeneering to disable certain checks within the boon App. The provided tutorial and script only works on Windows.
+This tutorial describes how you can run the boon Android App on a rooted or a device which is not certified by MasterCard. We use reverse engeneering to disable certain checks within the boon App. The provided tutorial and script only works on Windows.
 
 1. Install Java on your PC.
 2. Download the automation [script](boon.bat).
