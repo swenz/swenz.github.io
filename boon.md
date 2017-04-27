@@ -11,4 +11,7 @@ Tis tutorial describes how you can run the boon Android App on a rooted or a dev
     * If you want to run the App on a rooted device, search for *&lt;bool name="root_check_enabled"&gt;true&lt;/bool&gt;* and replace true with false.
     * If you want to run the App on a uncertified device, search for *&lt;bool name="whitelist_enabled"&gt;true&lt;/bool&gt;* and replace true with false.
 7. Afterwards save and close the file, the script will automatically continuous to run.
-7. Copy the generated app_modified.apk file to your Android device and install it.
+8. Copy the generated app_modified.apk file to your Android device and install it.
+
+## Sync transactions between N26 and boon
+Currently I'm developing a iPhone App to sync transactions between N26 and boon. The idea is that everytime you make a boon transaction a automated transfer to your boon account is made with the correct amount and description, the benefit of it that you don't destroy your N26 transaction log and statistics.
