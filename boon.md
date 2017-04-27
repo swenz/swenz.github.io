@@ -10,4 +10,4 @@ Tis tutorial describes how you can run the boon Android App on a rooted or a dev
 6. Now you have to choose which checks you want to deactivate within the boon app.
 6.1. If you want to run the App on a rooted device, search for <bool name="root_check_enabled">true</bool> and replace true with false.
 6.2. If you want to run the App on a uncertified device, search for <bool name="whitelist_enabled">true</bool> and replace true with false.
-7. Copy the app_modified.apk file to your Android device and install it.
+7. Copy the generated app_modified.apk file to your Android device and install it.
