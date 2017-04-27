@@ -5,10 +5,10 @@ Tis tutorial describes how you can run the boon Android App on a rooted or a dev
 1. Install Java on your PC.
 2. Download the automation [script](boon.bat).
 3. Download the boon apk (e.g. [here](https://www.google.de/search?q=boon+apk)) and place it in the same directory as the script.
-4. Run the script.bat with a double click.
+4. Run the boon.bat with a double click.
 5. The script will need some time to download necessary dependencies, at some point in time notepad will open.
 6. Now you have to choose which checks you want to deactivate within the boon app.
-    *If you want to run the App on a rooted device, search for <bool name="root_check_enabled">true</bool> and replace true with false.
-    *If you want to run the App on a uncertified device, search for <bool name="whitelist_enabled">true</bool> and replace true with false.
+    * If you want to run the App on a rooted device, search for <bool name="root_check_enabled">true</bool> and replace true with false.
+    * If you want to run the App on a uncertified device, search for <bool name="whitelist_enabled">true</bool> and replace true with false.
 7. Afterwards save and close the file, the script will automatically continuous to run.
 7. Copy the generated app_modified.apk file to your Android device and install it.
